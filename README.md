@@ -15,7 +15,7 @@
                                                                                              
                                                                                              
 ---------------------------------------------------
-A minimalist curtain automator developed by the Group 1 of Design Thinking and Electronic Protopying.
+A minimalist curtain automator developed by the Group 1 of ELEC-C9801 (DT&EP).
 </pre>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
