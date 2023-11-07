@@ -23,3 +23,7 @@ A minimalist curtain automator developed by the Group 1 of ELEC-C9801 (DT&EP).
 
 ## Design Log
 Current design log can be found in the [Google Document](https://docs.google.com/document/d/1mjjf6JOW-FxNi6zfv7sWbO6NmfYAhc-9kSr-jBfGe_k/edit?pli=1#heading=h.dk2mgb12e9xe)
+## To-do's for friday
+- [ ] Powering the arduino and motor with the batteries
+- [ ] Finish the mobile app
+- [ ] Readatpting source code for arduino for HC-06
