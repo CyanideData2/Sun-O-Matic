@@ -27,3 +27,5 @@ Current design log can be found in the [Google Document](https://docs.google.com
 - [ ] Powering the arduino and motor with the batteries
 - [ ] Finish the mobile app
 - [ ] Readatpting source code for arduino for HC-06
+
+
