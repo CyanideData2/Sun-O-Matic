@@ -5,9 +5,13 @@ const int alarmLimit = 10;
 int schedule[alarmLimit];
 SoftwareSerial bt(2,3); /* (Rx,Tx) */	
 
+void setup() {
+	bt.begin(9600);	/* Define baud rate for software serial communication */
+	Serial.begin(9600);	/* Define baud rate for serial communication */
+}
+
 //-----------------------
 void sendSchedule(){
-	bt.write("-");
 	for(int i = 0; i<alarmLimit; i++){ 
 		if(schedule[i] >=0) bt.write(schedule[i]);
 	}
@@ -24,20 +28,27 @@ void updateSchedule(){
 		}
 	}
 }
+void displayMessage(){
+	bool transmissionGoing = true;
+	while(transmissionGoing){
+		if(bt.available()){
+			char message = bt.read();
+			switch(message){
+				case '-': transmissionGoing = false; break;
+				default: Serial.write(message);
+			}
+		}
+	}
+}
 //---------------------------
 
-void setup() {
-	bt.begin(9600);	/* Define baud rate for software serial communication */
-	Serial.begin(9600);	/* Define baud rate for serial communication */
-}
-
 void loop() {
-
 	if (bt.available()) {
-		switch(bt.read()){
+    char input= bt.read();
+		switch(input){
 			case 'w': sendSchedule(); break;
 			case 'r': updateSchedule(); break;
-			//case 'd': displayMessage(); break;
+			case 'd': displayMessage(); break;
 		}	
 	}
 
