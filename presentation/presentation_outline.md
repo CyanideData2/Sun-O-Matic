@@ -1,29 +1,62 @@
 # Sun-O-Matic Presentation
 
 ## Headers
-1. Set reasonable expectations for the robot with the presentation.
-2. Consolidate a solid aesthetic
-    a) Set a brand colorscheme
-    b) 
-We want our audience to go "wow, I want that!"
-We want our audience to 
 
+- Set reasonable expectations for the robot with the presentation.
+- Consolidate a solid aesthetic
+   - Set a brand colorscheme
+   - We want our audience to go “wow, I want that!” 
 
-## Introduction
-Capture
+## Introduction – Daniel
+- Presentation theme joke
+- Pathos appeal to waking up to the morning sun
+- Introduction of the team 
+   > We are … and we have spent the last two months researching, developing and testing the best way to bring consumers a comfortable way to wake up
+- Give purpose to presentation 
+- Present the main sections as the setup for the final demonstration.
+*Remember to introduce next speaker.*
+
 ## Body of Talk
-### Topic 1 (designing and researching)
-1. brainstorming, finding problems, thinking about users, etc.
-2. deeper research, scientific data, potential user consultations
-3. first sketches, consolidating ideas, the Design Vision
-### Topic 2 (development)
-1. Hardware
-2. Robot-side software
-3. Controller-side software
-### Topic 3 (the product)
-1. summarize the testing
-2. explain functionality
-3. showcase demo
-## Conclusion
+
+### Design and Research – Wojciech
+
+- Brainstorming, finding problems, thinking about users, etc.
+   1. What issues bother us?
+   2. How can tech help?
+   3. Who will potentially benefit?
+- Deeper research, scientific data, potential user consultations
+   1. Research on circadian rhythms and health benefits
+   2. Insufficient existing solutions
+   3. Contacting Svalbard and asking if they want a robot
+- first sketches, consolidating the Design Vision
+   1. Usage scenario
+   2. Drawings, visions, app, shape, practical considerations with mounts
+   3. 3D model of the Design Concept.
+*Remember to introduce next speaker.*
+
+## Development – Daniel
 
 
+
+*Remember to introduce next speaker.*
+
+### The product – Wojciech
+
+- Summarize the testing
+1. Great Success of establishing BT
+2. Great Success of spinning the wheels
+3. Great Success of actually pulling a curtain
+- explain functionality
+1. Press buttons in app
+2. Say how every part reacts
+3. Mention health benefits
+*Remember to introduce next speaker.*
+
+### Conclusion – Daniel
+
+*Remember to introduce next speaker.*
+
+## Product Demo – Wojciech
+- Install the product in the curtain
+- Test with the app
+- Remark how it pulls the curatain without problem
