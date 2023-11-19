@@ -35,11 +35,11 @@
 *Remember to introduce next speaker.*
 
 ## Development – Daniel
-– Contrast in evolution method:
+- Contrast in evolution method:
    – Design 
       - Senseless ambition
       - Design for a purpose (cost)
-   – Hardware
+   - Hardware
       - Novelty 
          – 3D
          – Nano
@@ -47,8 +47,8 @@
       - Flexibility, functinoality, performance
          – poliuterane 
          – Metal hook
-         – Uno for compatibilty
-   – Software
+        – Uno for compatibilty
+   - Software
       - Human-readable
       - But only when needed (app, not firmware)
 *Remember to introduce next speaker.*
