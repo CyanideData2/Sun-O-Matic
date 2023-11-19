@@ -35,25 +35,41 @@
 *Remember to introduce next speaker.*
 
 ## Development – Daniel
-
-
-
+– Contrast in evolution method:
+   – Design 
+      a. Senseless ambition
+      b. Design for a purpose (cost)
+   – Hardware
+      a. Novelty 
+         – 3D
+         – Nano
+         – Minimize size
+      b. Flexibility, functinoality, performance
+         – poliuterane 
+         – Metal hook
+         – Uno for compatibilty
+   – Software
+      a. Human-readable
+      b. But only when needed (app, not firmware)
 *Remember to introduce next speaker.*
 
 ### The product – Wojciech
 
 - Summarize the testing
-1. Great Success of establishing BT
-2. Great Success of spinning the wheels
-3. Great Success of actually pulling a curtain
+   1. Great Success of establishing BT
+   2. Great Success of spinning the wheels
+   3. Great Success of actually pulling a curtain
 - explain functionality
-1. Press buttons in app
-2. Say how every part reacts
-3. Mention health benefits
+   1. Press buttons in app
+   2. Say how every part reacts
+   3. Mention health benefits
 *Remember to introduce next speaker.*
 
 ### Conclusion – Daniel
-
+- What is Sun-O-Matic supposed to be 
+- How does our concept achieve that?
+- How does this concept help the life of other people 
+> Anecdote on self-testing
 *Remember to introduce next speaker.*
 
 ## Product Demo – Wojciech
