@@ -36,7 +36,7 @@
 
 ## Development – Daniel
 - Contrast in evolution method:
-   – Design 
+   - Design 
       - Senseless ambition
       - Design for a purpose (cost)
    - Hardware
