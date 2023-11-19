@@ -37,20 +37,20 @@
 ## Development – Daniel
 – Contrast in evolution method:
    – Design 
-      a. Senseless ambition
-      b. Design for a purpose (cost)
+      - Senseless ambition
+      - Design for a purpose (cost)
    – Hardware
-      a. Novelty 
+      - Novelty 
          – 3D
          – Nano
          – Minimize size
-      b. Flexibility, functinoality, performance
+      - Flexibility, functinoality, performance
          – poliuterane 
          – Metal hook
          – Uno for compatibilty
    – Software
-      a. Human-readable
-      b. But only when needed (app, not firmware)
+      - Human-readable
+      - But only when needed (app, not firmware)
 *Remember to introduce next speaker.*
 
 ### The product – Wojciech
