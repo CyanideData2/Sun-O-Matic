@@ -10,6 +10,7 @@
 ## Introduction – Daniel
 - Presentation theme joke
 - Pathos appeal to waking up to the morning sun
+   > But this isn't limited to a plesant experience, as my teammate Wojciech will explain later, waking up to a bright environment has been proven key to provide a good night sleep. Speakin of which, allow me to introduce the team:
 - Introduction of the team 
    > We are … and we have spent the last two months researching, developing and testing the best way to bring consumers a comfortable way to wake up
 - Give purpose to presentation 
@@ -18,7 +19,7 @@
 
 ## Body of Talk
 
-### Design and Research – Wojciech
+### Design and Research – Marharyta
 
 - Brainstorming, finding problems, thinking about users, etc.
    1. What issues bother us?
@@ -34,7 +35,7 @@
    3. 3D model of the Design Concept.
 *Remember to introduce next speaker.*
 
-## Development – Daniel
+### Development – Daniel
 - Contrast in evolution method:
    - Design 
       - Senseless ambition
@@ -65,7 +66,7 @@
    3. Mention health benefits
 *Remember to introduce next speaker.*
 
-### Conclusion – Daniel
+## Conclusion – Marharyta
 - What is Sun-O-Matic supposed to be 
 - How does our concept achieve that?
 - How does this concept help the life of other people 
